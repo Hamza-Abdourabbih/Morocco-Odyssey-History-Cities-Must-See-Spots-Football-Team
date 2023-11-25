@@ -1,0 +1,42 @@
+#ok {
+height: 100vh;
+width: 100vw;
+object-fit: cover;
+position: fixed;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+z-index: -1;
+}
+#aa {
+	height: 60px;
+	width: 60px;
+
+}
+#aq {
+	color: #23DAE9;
+}
+h1{
+	font-family: serif;
+}
+h3{
+	font-family: monospace;
+}
+strong {
+	font-family: initial;
+}
+p{
+	font-family: Century Gothic;
+}
+#background-video {
+height: 100vh;
+width: 100vw;
+object-fit: cover;
+position: fixed;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+z-index: -1;
+}
